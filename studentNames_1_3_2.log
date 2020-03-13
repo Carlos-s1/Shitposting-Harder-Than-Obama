@@ -1,0 +1,51 @@
+# IPython log file
+
+%cd "C:\Users\Administrator\Desktop\Carlos_Serrano"
+import matplotlib.pyplot as plt
+a= randn(10000)
+plt.hist(a)
+#[Out]# (array([3.000e+00, 7.600e+01, 4.100e+02, 1.360e+03, 2.762e+03, 3.051e+03,
+#[Out]#        1.710e+03, 5.210e+02, 9.200e+01, 1.500e+01]), array([-4.09952812, -3.3001923 , -2.50085648, -1.70152067, -0.90218485,
+#[Out]#        -0.10284903,  0.69648678,  1.4958226 ,  2.29515841,  3.09449423,
+#[Out]#         3.89383005]), <a list of 10 Patch objects>)
+plt.show()
+5/10
+#[Out]# 0.5
+float(5)/10
+#[Out]# 0.5
+clear
+# Tue, 05 Nov 2019 09:57:23
+#CArlos Serrano 1.3.2 IPython log 
+# Tue, 05 Nov 2019 09:57:42
+5+3
+#[Out]# 8
+# Tue, 05 Nov 2019 10:01:18
+7*2
+#[Out]# 14
+# Tue, 05 Nov 2019 10:02:09
+7/2
+#[Out]# 3.5
+# Tue, 05 Nov 2019 10:02:18
+float(7/2)
+#[Out]# 3.5
+# Tue, 05 Nov 2019 10:02:33
+7/float(2)
+#[Out]# 3.5
+# Tue, 05 Nov 2019 10:02:53
+7/2.
+#[Out]# 3.5
+# Tue, 05 Nov 2019 10:03:03
+a=2
+# Tue, 05 Nov 2019 10:03:06
+b=5
+# Tue, 05 Nov 2019 10:03:12
+a*b
+#[Out]# 10
+# Tue, 05 Nov 2019 10:03:31
+23**43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967
+# Tue, 05 Nov 2019 10:03:41
+abs(-6)
+#[Out]# 6
+# Tue, 05 Nov 2019 10:04:04
+%logstop

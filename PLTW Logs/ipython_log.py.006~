@@ -1,0 +1,94 @@
+# IPython log file
+
+%run "C:\Users\Administrator\Desktop\Carlos_Serrano\Carlos_Serrano_PLTW_1.3.3 (2).py"
+vowel(hello)
+vowel(letter)
+letter_in_word ('t', 'secret hangman phrase')
+len(letter)==1
+'t' in 'string'
+#[Out]# True
+%run "C:\Users\Administrator\Desktop\Carlos_Serrano\Carlos_Serrano_PLTW_1.3.3 (2).py"
+vowel(t)
+letter_in_word('t', 'hello')
+#[Out]# False
+vowel('h')
+#[Out]# False
+vowel('hello')
+#[Out]# False
+vowel('a')
+#[Out]# True
+letter_in_word('e','hello')
+#[Out]# True
+%run "C:\Users\Administrator\Desktop\Carlos_Serrano\Carlos_Serrano_PLTW_1.3.3 (2).py"
+secret= ['red','red','yellow','yellow','black']
+hint('red',secret)
+#[Out]# 'the color is in the sequence'
+%run "C:\Users\Administrator\Desktop\Carlos_Serrano\Carlos_Serrano_PLTW_1.3.3 (2).py"
+%cd "C:\Users\Administrator\Desktop\Carlos_Serrano"
+# Thu, 14 Nov 2019 08:41:40
+# Carlos_Serrano_PLTW_1.3.4_IPython_log
+# Thu, 14 Nov 2019 08:51:42
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 08:51:58
+food_id('apple')
+#[Out]# 'Not Citrus, Fruit'
+# Thu, 14 Nov 2019 09:05:56
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:05:59
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:06:12
+food_id_test()
+# Thu, 14 Nov 2019 09:12:13
+%run "c:\users\admini~1\appdata\local\temp\tmp19nc0v.py"# Thu, 14 Nov 2019 09:12:23
+food_id_e=test
+# Thu, 14 Nov 2019 09:12:30
+food_id_test
+#[Out]# <function __main__.food_id_test>
+# Thu, 14 Nov 2019 09:13:02
+food_id_test()
+# Thu, 14 Nov 2019 09:16:10
+%run "c:\users\admini~1\appdata\local\temp\tmp_py99d.py"# Thu, 14 Nov 2019 09:16:20
+food_id_test()
+#[Out]# True
+# Thu, 14 Nov 2019 09:17:57
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:18:14
+food_id_test()
+# Thu, 14 Nov 2019 09:19:11
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:19:25
+food_test_id
+# Thu, 14 Nov 2019 09:19:29
+food_test_id()
+# Thu, 14 Nov 2019 09:19:53
+food_id_test()
+# Thu, 14 Nov 2019 09:21:14
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:21:17
+food_id_test()
+# Thu, 14 Nov 2019 09:21:36
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:21:38
+food_id_test()
+#[Out]# True
+# Thu, 14 Nov 2019 09:43:05
+%run "C:/Users/Administrator/Desktop/Carlos_Serrano/Carlos_Serrano_PLTW_1.3.4.py"# Thu, 14 Nov 2019 09:43:24
+f(12)
+# Thu, 14 Nov 2019 09:45:06
+a=input('give me a number between 5 and 6:')
+# Thu, 14 Nov 2019 09:46:44
+a
+#[Out]# '4'
+# Thu, 14 Nov 2019 09:46:54
+type(a)
+#[Out]# str
+# Thu, 14 Nov 2019 09:47:20
+a=0
+# Thu, 14 Nov 2019 09:47:24
+type(a)
+#[Out]# int
+# Thu, 14 Nov 2019 09:47:32
+a=input
+# Thu, 14 Nov 2019 09:47:38
+type(a)
+#[Out]# method
+# Thu, 14 Nov 2019 09:47:49
+a=input('give me a number between 5 and 6:')
+# Thu, 14 Nov 2019 09:47:54
+a
+#[Out]# '5.5'
+# Thu, 14 Nov 2019 10:05:17
+%logstop

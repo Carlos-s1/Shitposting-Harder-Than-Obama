@@ -1,0 +1,20 @@
+# IPython log file
+
+%cd "C:\Users\Administrator\Desktop\Carlos_Serrano"
+# Tue, 19 Nov 2019 08:07:21
+# Carlos Serrano 1.3.4 IPython Log
+# Tue, 19 Nov 2019 08:13:19
+%run "c:\users\admini~1\appdata\local\temp\tmpjo2c9t.py"# Tue, 19 Nov 2019 08:13:39
+guess_once(1)
+# Tue, 19 Nov 2019 08:13:49
+guess_once()
+# Tue, 19 Nov 2019 08:28:45
+%run "c:\users\admini~1\appdata\local\temp\tmpydh9f2.py"# Tue, 19 Nov 2019 08:29:00
+quiz_decimal(5,8)
+# Tue, 19 Nov 2019 08:29:11
+quiz_decimal(5,8)
+# Tue, 19 Nov 2019 08:29:30
+%run "c:\users\admini~1\appdata\local\temp\tmpkytp1r.py"# Tue, 19 Nov 2019 08:30:30
+quiz_decimal(1,10)
+# Tue, 19 Nov 2019 08:37:51
+%logstop

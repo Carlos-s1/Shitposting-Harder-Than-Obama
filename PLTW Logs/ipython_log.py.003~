@@ -1,0 +1,236 @@
+# IPython log file
+
+%cd "C:\Users\Administrator\Desktop\Carlos_Serrano"
+%logstart -ort
+# Carlos Serrano 1.3.4 IPython Log
+%run "c:\users\admini~1\appdata\local\temp\tmpjo2c9t.py"
+guess_once(1)
+guess_once()
+%run "c:\users\admini~1\appdata\local\temp\tmpydh9f2.py"
+quiz_decimal(5,8)
+quiz_decimal(5,8)
+%run "c:\users\admini~1\appdata\local\temp\tmpkytp1r.py"
+quiz_decimal(1,10)
+%logstop
+%logstart -ort
+# Carlos Serrano 1.3.5 IPython Log
+slogan = 'My school is the best'
+type(slogan)
+#[Out]# <class 'str'>
+slogan
+#[Out]# 'My school is the best'
+type('tr' + "y this")
+#[Out]# <class 'str'>
+type('tr' + 5)
+slogan [4]
+#[Out]# 'c'
+slogan[-2]
+#[Out]# 's'
+slogan[-1]
+#[Out]# 't'
+slogan[44]
+slogan[0:5]
+#[Out]# 'My sc'
+slogan[:]
+#[Out]# 'My school is the best'
+slogan[-4]
+#[Out]# 'b'
+slogan[10]
+#[Out]# 'i'
+slogan[-1]
+#[Out]# 't'
+slogan[5]
+#[Out]# 'h'
+slogan[5][6]
+slogan[5,6]
+slogan[-4]
+#[Out]# 'b'
+slogan[10]
+#[Out]# 'i'
+slogan[-1]
+#[Out]# 't'
+slogan[6]
+#[Out]# 'o'
+slogan[:13] + awsome
+slogan[:13] + 'awsome'
+#[Out]# 'My school is awsome'
+len(slogan)
+#[Out]# 21
+activity = 'theater'
+len(theater)
+len(activity)
+#[Out]# 7
+activity[0:len(activity)-1]
+#[Out]# 'theate'
+'test goo' in 'Greatest good for the greatest number!'
+#[Out]# True
+carlos = 'biTCH'
+carlos =genevive
+clear
+dumbfuck =
+hhh
+k
+kk
+454544636
+#[Out]# 454544636
+be8p0567898b74j
+bep bop
+G = 'Beep bop'
+g
+G
+#[Out]# 'Beep bop'
+%lostop
+%logstop
+# Tue, 19 Nov 2019 09:26:05
+# Carlos Serrano 1.3.6 IPython log
+# Tue, 19 Nov 2019 09:32:12
+a=10
+# Tue, 19 Nov 2019 09:32:29
+b=(9,a,11)
+# Tue, 19 Nov 2019 09:32:33
+b
+#[Out]# (9, 10, 11)
+# Tue, 19 Nov 2019 09:32:37
+a=15
+# Tue, 19 Nov 2019 09:32:39
+b
+#[Out]# (9, 10, 11)
+# Tue, 19 Nov 2019 09:32:45
+b[1]
+#[Out]# 10
+# Tue, 19 Nov 2019 09:33:01
+b=(9,a,11)
+# Tue, 19 Nov 2019 09:33:07
+b[1]
+#[Out]# 15
+# Tue, 19 Nov 2019 09:33:19
+b[2]
+#[Out]# 11
+# Tue, 19 Nov 2019 09:33:27
+b[0]
+#[Out]# 9
+# Tue, 19 Nov 2019 09:35:01
+b[1]==10
+#[Out]# False
+# Tue, 19 Nov 2019 09:36:33
+values=[a,b,3]
+# Tue, 19 Nov 2019 09:36:44
+values[2]= '3'
+# Tue, 19 Nov 2019 09:37:06
+values[2]== 3
+#[Out]# False
+# Tue, 19 Nov 2019 09:37:26
+values[2]
+#[Out]# '3'
+# Tue, 19 Nov 2019 09:37:48
+type(values[2])
+#[Out]# str
+# Tue, 19 Nov 2019 09:38:25
+values= values + [4,5]
+# Tue, 19 Nov 2019 09:38:28
+values
+#[Out]# [15, (9, 15, 11), '3', 4, 5]
+# Tue, 19 Nov 2019 09:39:39
+values.append([6,7])
+# Tue, 19 Nov 2019 09:39:42
+values
+#[Out]# [15, (9, 15, 11), '3', 4, 5, [6, 7]]
+# Tue, 19 Nov 2019 09:41:46
+values= values +5
+# Tue, 19 Nov 2019 09:42:21
+values += [5,6]
+# Tue, 19 Nov 2019 09:42:25
+values
+#[Out]# [15, (9, 15, 11), '3', 4, 5, [6, 7], 5, 6]
+# Tue, 19 Nov 2019 09:42:46
+values
+#[Out]# [15, (9, 15, 11), '3', 4, 5, [6, 7], 5, 6]
+# Tue, 19 Nov 2019 09:44:30
+a=6
+# Tue, 19 Nov 2019 09:44:37
+a*=3
+# Tue, 19 Nov 2019 09:44:39
+a
+#[Out]# 18
+# Tue, 19 Nov 2019 09:47:44
+import random
+# Tue, 19 Nov 2019 09:49:46
+random.choice(values)
+#[Out]# [6, 7]
+# Tue, 19 Nov 2019 09:50:11
+random.randint(5,8)
+#[Out]# 6
+# Tue, 19 Nov 2019 09:50:37
+random.umiform(5,8)
+# Tue, 19 Nov 2019 09:50:46
+random.uniform(5,8)
+#[Out]# 6.752024311379583
+# Tue, 19 Nov 2019 09:50:50
+random.uniform(5,8)
+#[Out]# 7.4695571712508
+# Tue, 19 Nov 2019 09:50:51
+random.uniform(5,8)
+#[Out]# 5.939148650050411
+# Tue, 19 Nov 2019 09:50:52
+random.uniform(5,8)
+#[Out]# 6.216482980670241
+# Tue, 19 Nov 2019 09:50:52
+random.uniform(5,8)
+#[Out]# 6.4356229759333665
+# Tue, 19 Nov 2019 09:50:52
+random.uniform(5,8)
+#[Out]# 7.4675908987295765
+# Tue, 19 Nov 2019 09:50:53
+random.uniform(5,8)
+#[Out]# 7.87039894527154
+# Tue, 19 Nov 2019 09:50:53
+random.uniform(5,8)
+#[Out]# 7.437257510761651
+# Tue, 19 Nov 2019 09:50:53
+random.uniform(5,8)
+#[Out]# 7.381012485084355
+# Tue, 19 Nov 2019 09:50:54
+random.uniform(5,8)
+#[Out]# 6.102146562224286
+# Tue, 19 Nov 2019 09:50:54
+random.umiform(5,8)
+# Tue, 19 Nov 2019 09:50:55
+random.umiform(5,8)
+# Tue, 19 Nov 2019 09:50:55
+random.umiform(5,8)
+# Tue, 19 Nov 2019 09:50:55
+random.umiform(5,8)
+# Tue, 19 Nov 2019 09:50:59
+random.uniform(5,8)
+#[Out]# 5.660384372507029
+# Tue, 19 Nov 2019 09:51:02
+random.uniform(5,8)
+#[Out]# 7.245272129183485
+# Tue, 19 Nov 2019 09:53:42
+%run "c:\users\admini~1\appdata\local\temp\tmpitmrfi.py"# Tue, 19 Nov 2019 09:53:52
+roll_two_dice()
+# Tue, 19 Nov 2019 09:54:49
+%run "c:\users\admini~1\appdata\local\temp\tmpyghsrf.py"# Tue, 19 Nov 2019 09:55:06
+roll_two_dice
+#[Out]# <function __main__.roll_two_dice>
+# Tue, 19 Nov 2019 09:55:13
+roll_two_dice()
+# Tue, 19 Nov 2019 09:56:05
+%run "c:\users\admini~1\appdata\local\temp\tmplp7sax.py"# Tue, 19 Nov 2019 09:56:20
+roll_two_dice()
+# Tue, 19 Nov 2019 10:00:46
+%run "c:\users\admini~1\appdata\local\temp\tmpa0rkew.py"# Tue, 19 Nov 2019 10:00:59
+guess_letter()
+# Tue, 19 Nov 2019 10:01:27
+%run "c:\users\admini~1\appdata\local\temp\tmp2ymkss.py"# Tue, 19 Nov 2019 10:01:32
+guess_letter()
+# Tue, 19 Nov 2019 10:01:35
+guess_letter()
+# Tue, 19 Nov 2019 10:01:37
+guess_letter()
+# Tue, 19 Nov 2019 10:01:38
+guess_letter()
+# Tue, 19 Nov 2019 10:01:39
+%run "c:\users\admini~1\appdata\local\temp\tmp2ymkss.py"
+# Tue, 19 Nov 2019 10:02:48
+%logstop

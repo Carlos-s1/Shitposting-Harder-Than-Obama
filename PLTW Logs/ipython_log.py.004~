@@ -1,0 +1,127 @@
+# IPython log file
+
+%cd "C:\Users\Administrator\Desktop\Carlos_Serrano"
+%logstart -ort
+# Carlos Serrano 1.3.4 IPython Log
+%run "c:\users\admini~1\appdata\local\temp\tmpjo2c9t.py"
+guess_once(1)
+guess_once()
+%run "c:\users\admini~1\appdata\local\temp\tmpydh9f2.py"
+quiz_decimal(5,8)
+quiz_decimal(5,8)
+%run "c:\users\admini~1\appdata\local\temp\tmpkytp1r.py"
+quiz_decimal(1,10)
+%logstop
+# Tue, 19 Nov 2019 08:38:30
+# Carlos Serrano 1.3.5 IPython Log
+# Tue, 19 Nov 2019 08:41:06
+slogan = 'My school is the best'
+# Tue, 19 Nov 2019 08:41:43
+type(slogan)
+#[Out]# str
+# Tue, 19 Nov 2019 08:41:51
+slogan
+#[Out]# 'My school is the best'
+# Tue, 19 Nov 2019 08:44:54
+type('tr' + "y this")
+#[Out]# str
+# Tue, 19 Nov 2019 08:45:23
+type('tr' + 5)
+# Tue, 19 Nov 2019 08:51:02
+slogan [4]
+#[Out]# 'c'
+# Tue, 19 Nov 2019 08:51:15
+slogan[-2]
+#[Out]# 's'
+# Tue, 19 Nov 2019 08:52:02
+slogan[-1]
+#[Out]# 't'
+# Tue, 19 Nov 2019 08:52:13
+slogan[44]
+# Tue, 19 Nov 2019 08:53:37
+slogan[0:5]
+#[Out]# 'My sc'
+# Tue, 19 Nov 2019 08:54:16
+slogan[:]
+#[Out]# 'My school is the best'
+# Tue, 19 Nov 2019 08:54:43
+slogan[-4]
+#[Out]# 'b'
+# Tue, 19 Nov 2019 08:55:00
+slogan[10]
+#[Out]# 'i'
+# Tue, 19 Nov 2019 08:55:10
+slogan[-1]
+#[Out]# 't'
+# Tue, 19 Nov 2019 08:55:21
+slogan[5]
+#[Out]# 'h'
+# Tue, 19 Nov 2019 08:56:32
+slogan[5][6]
+# Tue, 19 Nov 2019 08:56:49
+slogan[5,6]
+# Tue, 19 Nov 2019 08:57:49
+slogan[-4]
+#[Out]# 'b'
+# Tue, 19 Nov 2019 08:58:01
+slogan[10]
+#[Out]# 'i'
+# Tue, 19 Nov 2019 08:58:30
+slogan[-1]
+#[Out]# 't'
+# Tue, 19 Nov 2019 08:58:48
+slogan[6]
+#[Out]# 'o'
+# Tue, 19 Nov 2019 09:00:38
+slogan[:13] + awsome
+# Tue, 19 Nov 2019 09:00:48
+slogan[:13] + 'awsome'
+#[Out]# 'My school is awsome'
+# Tue, 19 Nov 2019 09:06:13
+len(slogan)
+#[Out]# 21
+# Tue, 19 Nov 2019 09:07:38
+activity = 'theater'
+# Tue, 19 Nov 2019 09:07:45
+len(theater)
+# Tue, 19 Nov 2019 09:07:58
+len(activity)
+#[Out]# 7
+# Tue, 19 Nov 2019 09:10:37
+activity[0:len(activity)-1]
+#[Out]# 'theate'
+# Tue, 19 Nov 2019 09:11:09
+'test goo' in 'Greatest good for the greatest number!'
+#[Out]# True
+# Tue, 19 Nov 2019 09:12:22
+carlos = 'biTCH'
+# Tue, 19 Nov 2019 09:13:06
+carlos =genevive
+# Tue, 19 Nov 2019 09:13:23
+clear
+# Tue, 19 Nov 2019 09:15:11
+dumbfuck =
+# Tue, 19 Nov 2019 09:15:30
+hhh
+# Tue, 19 Nov 2019 09:15:34
+k
+# Tue, 19 Nov 2019 09:15:35
+kk
+# Tue, 19 Nov 2019 09:15:44
+454544636
+#[Out]# 454544636
+# Tue, 19 Nov 2019 09:15:54
+be8p0567898b74j
+# Tue, 19 Nov 2019 09:16:07
+bep bop
+# Tue, 19 Nov 2019 09:16:21
+G = 'Beep bop'
+# Tue, 19 Nov 2019 09:16:24
+g
+# Tue, 19 Nov 2019 09:16:26
+G
+#[Out]# 'Beep bop'
+# Tue, 19 Nov 2019 09:25:06
+%lostop
+# Tue, 19 Nov 2019 09:25:13
+%logstop

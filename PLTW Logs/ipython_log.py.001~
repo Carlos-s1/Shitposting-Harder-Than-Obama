@@ -1,0 +1,12 @@
+# IPython log file
+
+get_ipython().magic('cd "C:\\Users\\Administrator\\Desktop\\Carlos_Serrano"')
+get_ipython().magic('logstart')
+get_ipython().magic('run "C:\\Users\\Administrator\\Desktop\\Carlos_Serrano\\earthEyes.py"')
+earth_img.size
+earth_small.size
+earth_img.size[1]
+earth_small.save('smallEarth.png
+earth_small.save('smallEarth.png)
+earth_small.save('smallEarth.png')
+get_ipython().magic('run "C:\\Users\\Administrator\\Desktop\\Carlos_Serrano\\earthEyes.py"')
