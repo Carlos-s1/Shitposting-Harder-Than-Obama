@@ -25,3 +25,5 @@ onkeypress(k4, "s")
 listen()
 
 mainloop()
+
+# Lmao
